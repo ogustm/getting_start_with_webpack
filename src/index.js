@@ -1,3 +1,5 @@
+import _ from 'lodash';
+
 function component() {
     const element = document.createElement('div');
     // Lodash, currently included via a script, is required ofr this line to work
